@@ -36,7 +36,7 @@
 ### 📈 Estadísticas de Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel98R&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=9C27B0&text_color=ffffff&icon_color=F44336&border_color=220022&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel98R&show_icons=true&count_private=true&bg_color=000000&title_color=9C27B0&text_color=ffffff&icon_color=F44336&border_color=220022&hide_border=false" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel98R&layout=compact&bg_color=000000&title_color=F44336&text_color=ffffff&border_color=220022&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 

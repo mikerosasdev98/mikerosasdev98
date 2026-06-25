@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&height=80&lines=¡Hola!+Soy+Miguel+Rosas+👋;Software+Architect;Tech+Lead;Full+Stack+Developer;Desde+Pachuca,+México+📍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&height=80&lines=%C2%A1Hola!%20Soy%20Miguel%20Rosas%20%F0%9F%91%8B;Software%20Architect;Tech+Lead;Full+Stack+Developer;Desde+Pachuca,%20M%C3%A9xico%20%F0%9F%93%8D" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/Miguel98R">
